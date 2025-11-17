@@ -13,3 +13,4 @@ header('Content-Type: font/ttf');
 header('Cache-Control: no-cache');
 echo base64_decode('VGVzdCBmb250IGZvciB0cmFja2luZw=='); // font nhỏ
 ?>
+
